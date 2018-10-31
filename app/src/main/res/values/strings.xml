@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="textView1Title">SharedPreference</string>
+    <string name="button1Input">Input Activity</string>
+    <string name="button1Get">Get Activity</string>
+    <string name="textViewInputTitle">Shared Preference(Input)</string>
+    <string name="editTextName">Name</string>
+    <string name="editTextPassword">Password</string>
+    <string name="editTextMail">Mail</string>
+    <string name="buttonInputSave">Save</string>
+    <string name="textViewGetTitle">Shared Preference(Get)</string>
+    <string name="buttonGet">Main Activity</string>
+</resources>
